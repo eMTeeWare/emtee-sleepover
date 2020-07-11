@@ -22,3 +22,7 @@ network={
 }
 ```
 (Thanks to https://www.dahlen.org/2017/10/raspberry-pi-zero-w-headless-setup/)
+
+## Login via ssh
+`ssh pi@raspberrypi`, default password `raspberry`
+
