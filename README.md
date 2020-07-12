@@ -38,3 +38,6 @@ I chose `••••••••••••••••`
 
 ## Update software
 `sudo apt-get update`, `sudo apt-get upgrade`
+
+## Configure timezone
+`sudo raspi-config`, `4 Localisation Options`, `I2 Change Time Zone`, `Europe`, `Berlin`
