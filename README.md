@@ -26,3 +26,7 @@ network={
 ## Login via ssh
 `ssh pi@raspberrypi`, default password `raspberry`
 
+## Change hostname
+`sudo raspi-config`, `2 Network Options`, `N1 Hostname`
+
+I chose `slee-pi`
