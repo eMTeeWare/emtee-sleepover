@@ -31,8 +31,7 @@ network={
 
 I chose `slee-pi`
 
-
-## Change hostname
+## Change password
 `sudo raspi-config`, `1 Change User Password`
 
 I chose `••••••••••••••••`
