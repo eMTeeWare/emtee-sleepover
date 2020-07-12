@@ -36,3 +36,6 @@ I chose `slee-pi`
 `sudo raspi-config`, `1 Change User Password`
 
 I chose `••••••••••••••••`
+
+## Update software
+`sudo apt-get update`, `sudo apt-get upgrade`
